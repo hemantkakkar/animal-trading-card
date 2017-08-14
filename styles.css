@@ -1,0 +1,31 @@
+
+   body {
+	   margin: 0 auto;
+	   width: 350px;
+   }
+	
+	.favorite-animal {
+	border: 1px solid red;
+	padding: 2px;
+	width: 301px;
+	background-color: #edfaff  ;		
+	}
+	
+	.animal-description {
+	border: 1px solid green;
+	background-color: #fff1df;
+	width: 300px;
+	}
+	
+	.interesting-fact {
+	font-style: italic;
+	}
+
+	.facts-list {
+		list-style-type: circle;
+		
+	}
+	
+	span {
+		font-weight: bold;
+	}
